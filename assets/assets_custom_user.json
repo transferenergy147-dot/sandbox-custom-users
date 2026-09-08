@@ -5,16 +5,16 @@
             "subtype": "checking",
             "identity": {
                 "names": [
-                    "John Smith"
+                    "Joshua Cox"
                 ],
                 "addresses": [
                     {
                         "data": {
-                            "city": "New York",
+                            "city": "Decatur",
                             "country": "US",
-                            "postal_code": "10003",
-                            "region": "NY",
-                            "street": "10003 Broadway Road"
+                            "postal_code": "30032",
+                            "region": "GA",
+                            "street": "1549 Peachcrest Road"
                         },
                         "primary": true
                     }
