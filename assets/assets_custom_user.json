@@ -11,9 +11,9 @@
                     {
                         "data": {
                             "city": "Decatur",
-                            "country": "US",
+                            "country": "Georgia",
                             "postal_code": "30032",
-                            "region": "GA",
+                            "region": "United States of America",
                             "street": "1549 Peachcrest Road"
                         },
                         "primary": true
