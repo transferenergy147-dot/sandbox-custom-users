@@ -9,24 +9,24 @@
             "official_name":"Plaid Instant Daily Checking Account"
          },
          "numbers":{
-            "account":"111122220000",
+            "account":"333517968405",
             "eft_institution":"114",
             "eft_branch":"01533"
          },
          "identity":{
             "names":[
-               "John Smith"
+               "Joshua Cox"
             ],
             "phone_numbers": [
                {
-               "data":"9084581209",
+               "data":"4704766198",
                "primary":true,
                "type":"mobile"
             }
             ],
              "emails": [
                {
-               "data":"jsmith@plaid.com",
+               "data":"joshuawcox5@gmail.com",
                "primary":true,
                "type":"primary"
             }
@@ -54,13 +54,13 @@
             "official_name":"Plaid Growth Savings Account"
          },
          "numbers":{
-            "account":"111122222222",
+            "account":"333517968405",
             "eft_institution":"114",
             "eft_branch":"01533"
          },
          "identity":{
             "names":[
-               "John Smith"
+               "Joshua Cox"
             ],
             "phone_numbers": [
                {
@@ -71,7 +71,7 @@
             ],
              "emails": [
                {
-               "data":"jsmith@plaid.com",
+               "data":"joshuawcox5@gmail.com",
                "primary":true,
                "type":"primary"
             }
