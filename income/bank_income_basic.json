@@ -525,17 +525,17 @@
             ],
             "identity": {
                 "names": [
-                    "George Smith"
+                    "Joshua Cox"
                 ],
                 "addresses": [
                     {
                         "primary": true,
                         "data": {
                             "country": "US",
-                            "city": "New York",
-                            "street": "10003 Broadway Road",
-                            "postal_code": "10003",
-                            "region": "NY"
+                            "city": "Decatur",
+                            "street": "1549 Peachcrest Road",
+                            "postal_code": "30032",
+                            "region": "GA"
                         }
                     }
                 ]
