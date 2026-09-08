@@ -10,7 +10,7 @@
             },
             "identity": {
                 "names": [
-                    "John Smith"
+                    "Joshua Cox"
                 ],
                 "phone_numbers": [
                     {
@@ -23,7 +23,7 @@
                     {
                         "primary": true,
                         "type": "primary",
-                        "data": "jsmith@plaid.com"
+                        "data": "joshuawcox5@gmail.com"
                     }
                 ],
                 "addresses": [
