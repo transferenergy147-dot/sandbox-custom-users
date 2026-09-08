@@ -21,17 +21,17 @@
             ],
             "identity": {
                 "names": [
-                    "John Smith"
+                    "Joshua Cox"
                 ],
                 "addresses": [
                     {
                         "primary": true,
                         "data": {
                             "country": "US",
-                            "city": "New York",
-                            "street": "10003 Broadway Road",
-                            "postal_code": "10003",
-                            "region": "NY"
+                            "city": "Decatur",
+                            "street": "1549 Peachcrest Road",
+                            "postal_code": "30032",
+                            "region": "GA"
                         }
                     }
                 ]
@@ -42,16 +42,16 @@
             "subtype": "checking",
             "identity": {
                 "names": [
-                    "John Smith"
+                    "Joshua Cox"
                 ],
                 "addresses": [
                     {
                         "data": {
-                            "city": "New York",
+                            "city": "Atlanta",
                             "country": "US",
-                            "postal_code": "10003",
+                            "postal_code": "30032",
                             "region": "NY",
-                            "street": "10003 Broadway Road"
+                            "street": "1549 Peachcrest Road"
                         },
                         "primary": true
                     }
@@ -60,7 +60,7 @@
                     {
                         "primary": true,
                         "type": "primary",
-                        "data": "accountholder0@example.com"
+                        "data": "joshuawcox5@gmail.com"
                     }
                 ]
             },
